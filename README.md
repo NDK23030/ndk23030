@@ -9,4 +9,8 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ndk_denis)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/__ndk_denis__)
+[![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk)](https://vk.com/ndk_denis)
+[![Google](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail)](https://ggmazanovdenis@gmail.com)
