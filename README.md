@@ -1,14 +1,10 @@
-[![Header](link)]
-
-## I`m a beginner Frontend Developer
+## Hello World
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ndk_denis)
